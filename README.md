@@ -1,6 +1,6 @@
-# Gsoc_Deeplense
-Entry for GSoc Deeplense 'Foundational Model' project. Contains jupyter nbs, scripts and results of tasks.
-Results for specific task (task 6) can be reproduced by running [validation_nb](validation_deeplense_task6.ipynb) notebook on kaggle
+# B.Tech Project Work
+
+Results for specific task MAE-SR can be reproduced by running [validation_nb](validation_deeplense_task6.ipynb) notebook on kaggle
 
 Separate Train Val folders were not provided for task 6 so I have split them into 90:10 ratio.
 Dataset links (organised into train val spilts and uploaded on kaggle):
